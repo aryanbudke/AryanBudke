@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Aryan Budke
 
-<!--
-**aryanbudke/AryanBudke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer who enjoys building modern web applications and learning new technologies.
 
-Here are some ideas to get you started:
+## 📊 GitHub Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics">
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/aryanbudke
+
+⭐ Thanks for visiting my profile!
